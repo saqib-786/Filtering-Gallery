@@ -1,0 +1,145 @@
+[
+    {
+        "id":1,
+        "img": "./Images/man-1.jpg",
+        "category": "people",
+        "title": "Man",
+        "description" : "Lorem ipsum, dolor sit amet."
+    },
+    {
+        "id": 2,
+        "img":"./Images/man-2.jpg",
+        "category":"people",
+        "title": "Man",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 3,
+        "img":"./Images/man-3.jpg",
+        "category":"people",
+        "title": "Boy",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 4,
+        "img":"./Images/man-4.jpg",
+        "category":"people",
+        "title": "Boy",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 5,
+        "img":"./Images/Bike-1.jpg",
+        "category":"bike",
+        "title": "Race",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+
+    },
+    {
+        "id": 6,
+        "img":"./Images/Bike-2.jpg",
+        "category":"bike",
+        "title": "Bike",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 7,
+        "img":"./Images/Bike-3.jpg",
+        "category":"bike",
+        "title": "Bike",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 8,
+        "img":"./Images/Bike-4.jpg",
+        "category":"bike",
+        "title": "Bike",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 9,
+        "img":"./Images/nature-1.jpg",
+        "category":"nature",
+        "title": "Forest",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 10,
+        "img":"./Images/nature-2.jpg",
+        "category":"nature",
+        "title": "Mountain",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 11,
+        "img":"./Images/nature-3.jpg",
+        "category":"nature",
+        "title": "Mountain",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 12,
+        "img":"./Images/nature-4.jpg",
+        "category":"nature",
+        "title": "Forest",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 13,
+        "img":"./Images/car-1.jpg",
+        "category":"car",
+        "title": "Car",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 14,
+        "img":"./Images/car-2.jpg",
+        "category":"car",
+        "title": "Race",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 15,
+        "img":"./Images/car-3.jpg",
+        "category":"car",
+        "title": "Car",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    },
+    {
+        "id": 16,
+        "img":"./Images/car-4.jpg",
+        "category":"car",
+        "title": "Speed",
+        "description" : "Lorem ipsum, dolor sit amet."
+
+
+    }
+]
